@@ -31,6 +31,7 @@ a{
 	position: relative;
     text-align: center;
     padding-top: 171px;
+    height: 335px;
 }
 #content > img{
     height: 92px;
@@ -66,4 +67,26 @@ a{
     /* min-width: 54px; */
     margin: 11px 4px;
     padding: 0 16px;
+}
+footer{
+	background-color: #f2f2f2;
+}
+#place{
+	font-size: medium;
+    padding: 15px 35px;
+    border-top: 1px solid #D8D8D8;
+    border-bottom: 1px solid #D8D8D8;
+}
+#info{
+	height:30px;
+}
+#info ul li{
+	display: inline;
+    padding-right: 30px;
+}
+.alignLeft{
+	float:left;
+}
+.alignRight{
+	float:right;
 }
